@@ -5,4 +5,4 @@ Days_remaining = Year_remaining * 365
 Weeks_remaining = Year_remaining * 52
 Months_remaining = Year_remaining * 12
 
-print(f"You have {Days_remaining} days, {Weeks_remaining} weeks, {Months_remaining} months, {Year_remaining} years.")
+print(f"You have {Days_remaining} days, {Weeks_remaining} weeks, {Months_remaining} months, {Year_remaining} years .")
