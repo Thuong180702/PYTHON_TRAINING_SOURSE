@@ -1,5 +1,3 @@
-# PYTHON_TRAINING_SOURSE
-
 <h1 align="center">Hi 👋, I'm Nguyễn Văn Thương</h1>
 <h3 align="center">TRAINING PYTHON COURSE</h3>
 
